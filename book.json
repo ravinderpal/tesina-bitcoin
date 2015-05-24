@@ -2,7 +2,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-            "title": "Bitcoin",
+            "title": "Tesina - Bitcoin",
             "author": "Ravinder Pal Singh",
             "font": {
                 "size": null,
