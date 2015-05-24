@@ -1,7 +1,0 @@
-{
-    "plugins": [
-        "collapsible-menu",
-        "todo"
-    ],
-    "pluginsConfig": {}
-}
