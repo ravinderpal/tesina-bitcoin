@@ -2,5 +2,5 @@
 
 * Introduzione
 * [Argomenti](argomenti.md)
-* Digital currency
+* [Digital currency](digital_currency.md)
 
