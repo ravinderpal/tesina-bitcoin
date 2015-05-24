@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "gitbook-plugin-collapsible-menu",
+        "collapsible-menu",
         "todo"
     ],
     "pluginsConfig": {}
