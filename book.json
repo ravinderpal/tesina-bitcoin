@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "gitbook-plugin-todo"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
