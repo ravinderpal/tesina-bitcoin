@@ -7,5 +7,5 @@
 * [Bitcoin - La storia](bitcoin_-_la_storia.md)
 * Funzionamento
    * [Block chain](block_chain.md)
-   * Wallet
+   * [Wallet](wallet.md)
 
