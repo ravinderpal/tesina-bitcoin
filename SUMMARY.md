@@ -9,5 +9,5 @@
    * [Block chain](block_chain.md)
    * [Wallet](wallet.md)
    * [Transazioni](transazioni.md)
-   * Mining
+   * [Mining](mining.md)
 
