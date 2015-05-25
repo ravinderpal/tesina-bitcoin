@@ -8,5 +8,5 @@
 * Funzionamento
    * [Block chain](block_chain.md)
    * [Wallet](wallet.md)
-   * Transazioni
+   * [Transazioni](transazioni.md)
 
