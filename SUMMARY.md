@@ -10,4 +10,5 @@
    * [Transazioni](transazioni.md)
    * [Mining](mining.md)
    * [Generazione di bitcoin](generazione_di_bitcoin.md)
+* Il problema
 
