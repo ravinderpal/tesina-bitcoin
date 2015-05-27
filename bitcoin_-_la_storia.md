@@ -11,5 +11,5 @@ Nel gennaio del 2009, l'invenzione di Nakamoto fu rilasciata come software open 
 ###La diffusione
 Essendo un software open source e data la popolarità che stavano avendo, nel 2011 cominciano a nascere delle altrnative a Bitcoin.
 
-Nel 2013 molti siti web cominciano ad accettare il pagamento tramite Bitcoin nei loro servizi.
+Nel 2013 molte aziende cominciano ad accettare nei loro servizi il pagamento con bitcoin. I primi siti ad offrerne la possibilità furono: Wordpress, Expedia e Baidu.
 
