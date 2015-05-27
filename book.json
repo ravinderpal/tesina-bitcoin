@@ -1,21 +1,4 @@
 {
-    "plugins": ["autocover"],
-    "pluginsConfig": {
-        "autocover": {
-            "title": "Tesina - Bitcoin",
-            "author": "Ravinder Pal Singh",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-            "color": "#deafee"
-            }
-        }
-    }
+    "plugins": [],
+    "pluginsConfig": {}
 }
