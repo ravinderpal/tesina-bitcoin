@@ -5,7 +5,7 @@ Ogni giorni milioni di persone effettuano acquisti online ritenendo questo un si
 ##
 
 ##Sicurezza e privacy
-inoltre dobbiamo fidarci del fatto che la nostra banca o l'ente che rilascia la carta di credito mangano le nostre informazioni al sicuro e rispettino la legge sulla privacy. 
+Inoltre dobbiamo fidarci del fatto che la nostra banca o l'ente che rilascia la carta di credito/debito mantengano le nostre informazioni al sicuro e rispettino la legge sulla privacy. 
 
 ##Double-spending
 Ma nemmeno eliminando un ente che faccia da tramite tra venditore e consumatore potrebe risolvere il problema perchè mancherebbe 
