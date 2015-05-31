@@ -4,9 +4,12 @@
 
 Cos'è Bitcoin?
 
-Bitcoin è un registro contenente una lista di account e importi. Una copia di questo file è mantenuta in ogni computer appartenente alla rete Bitcoin. 
+Bitcoin può essere visto come un _registro_, chiamato __block chain__, contenente una lista di account e importi. Una copia di questo file è mantenuta in ogni computer appartenente alla rete Bitcoin. 
 Gli importi degli account non rappresentano niente nel mondo reale ma assumono un certo valore perchè le persone sono disposte a scambiare beni e servizi per aumentare questo valore nel proprio account. 
 I bitcoin hanno valore perchè siamo noi a crederlo, proprio come la moneta materiale. 
+In poche parole allora __Bitcoin è un sistema che consente ad un gruppo di computer di mantenere un registro di transazioni__.
+Anche se questo registro sembra essere mantenuto da una banca, il fatto che sia mantenuto da una rete di computer comporta ad alcune differenze.
+
 
 ##Il popolo Yap
 
