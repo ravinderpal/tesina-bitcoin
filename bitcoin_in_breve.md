@@ -10,6 +10,7 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 - Mentre in una banca le nostre infomazioni sono protette grazie alla legge sulla privacy, nella rete Bitcoin tutti posso vedere le transazioni di tutti essendo il __registo pubblico__.
 - Mentre ci si può fidare della propria banca, o nel caso effettuare una denuncia per eventuali problemi, nella rete Bitcoin non ci si dovrebbe fidare di nessuno perchè in molti casi non si conosce con cui si sta trattando.
 
+Fortunatamente questi problemi sono risolti grazie a delle speciali funzioni matematiche che gestiscono il corretto funzionamento del sistema.
 
 ##Criptovaluta nel passato: Il popolo Yap
 
@@ -19,5 +20,8 @@ Quindi:
 - Non si poteva spendere la moneta di qualcun altro perchè tutti erano a conoscenza di chi era proprietario di quella pietra.
 - Non si poteva spendere quella moneta due volte perchè tutti lo avrebbero saputo.
 - Non si poteva falsificare una moneta se non scolpendone un'altra ma quelle pietre erano rare da trovare.
+
+
+
 
 
