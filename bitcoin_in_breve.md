@@ -12,6 +12,14 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 
 Fortunatamente questi problemi sono risolti grazie a delle speciali funzioni matematiche che gestiscono il corretto funzionamento del sistema.
 
+##Vantaggi
+- I bitcoin sono trasferiti da persona a persona attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
+- Quindi i costi sono molto minori(nella maggior parte dei casi anche nulli).
+- Possono essere utilizzati in tutto il mondo.
+- Non si necessita di alcun tipo di prerequisito.
+
+
+
 ##Criptovaluta nel passato: Il popolo Yap
 
 Circa un secolo fa, il popolo Yap dell'isola del Pacifico utilizzò dischi di pietra come moneta. Le dimensioni di queste pietre determinavano il valore della moneta e potevano raggiungere anche l'altezza di 4 metri. 
@@ -20,8 +28,6 @@ Quindi:
 - Non si poteva spendere la moneta di qualcun altro perchè tutti erano a conoscenza di chi era proprietario di quella pietra.
 - Non si poteva spendere quella moneta due volte perchè tutti lo avrebbero saputo.
 - Non si poteva falsificare una moneta se non scolpendone un'altra ma quelle pietre erano rare da trovare.
-
-
 
 
 
