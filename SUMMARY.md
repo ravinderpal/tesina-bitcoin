@@ -9,5 +9,5 @@
    * [Block chain](block_chain.md)
    * [Wallet](wallet.md)
    * [Transazioni](transazioni.md)
-* [Criptovaluta nel passato](criptovaluta_nel_passato.md)
+* [Bitcoin in breve](bitcoin_in_breve.md)
 
