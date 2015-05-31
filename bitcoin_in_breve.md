@@ -11,7 +11,7 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 - Mentre ci si può fidare della propria banca, o nel caso effettuare una denuncia per eventuali problemi, nella rete Bitcoin non ci si dovrebbe fidare di nessuno perchè in molti casi non si conosce con cui si sta trattando.
 
 
-##Il popolo Yap
+##Criptovaluta nel passato: Il popolo Yap
 
 Circa un secolo fa, il popolo Yap dell'isola del Pacifico utilizzò dischi di pietra come moneta. Le dimensioni di queste pietre determinavano il valore della moneta e potevano raggiungere anche l'altezza di 4 metri. 
 Date queste dimensioni esagerate, lo spostamento di questa moneta risultava molto scomodo. Allora si decise semplicemente di effettuare un cambio di proprietà per traferire questo tipo di denaro da una persona all'altra. 
@@ -20,8 +20,4 @@ Quindi:
 - Non si poteva spendere quella moneta due volte perchè tutti lo avrebbero saputo.
 - Non si poteva falsificare una moneta se non scolpendone un'altra ma quelle pietre erano rare da trovare.
 
-
-
-
-# Bitcoin in breve
 
