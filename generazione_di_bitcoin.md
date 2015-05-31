@@ -1,2 +1,0 @@
-# Generazione di bitcoin
-
