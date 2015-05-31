@@ -9,5 +9,4 @@
    * [Block chain](block_chain.md)
    * [Wallet](wallet.md)
    * [Transazioni](transazioni.md)
-   * [Generazione di bitcoin](generazione_di_bitcoin.md)
 
