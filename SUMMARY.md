@@ -10,4 +10,5 @@
    * [Wallet](wallet.md)
    * [Transazioni](transazioni.md)
 * [Utilizzare Bitcoin](utilizzare_bitcoin.md)
+* Cose da sapere
 
