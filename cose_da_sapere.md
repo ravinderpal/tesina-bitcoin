@@ -12,6 +12,9 @@ Una transazione effettuata con  Bitcoin è irreversibile. Quindi è importante a
 ##Bitcoin non è del tutto anonimo
 Bitcoin non possiede alcun tipo di dato personale riguardo agli utenti. Mantiene però permanentemente tutte le transazioni che vengono effettuate, permettendo a chiunque di vedere il bilancio e le transazioni di qualunque _indirizzo Bitcoin_. 
 
+##Le transazioni immediate sono meno sicure
+Una transazione viene effettuata nell'arco di pochi secondi ma comincia ad essere confermata solo nei dieci minuti successsivi. In questo arco di tempo, la transazione può essere considerata autentica ma ancora reversibile. Gli utenti disonesti potrebbero cercare di ingannare. E' quindi consigliabile aspettare anche fino a 6 conferme(un'ora) per pagamenti rilevanti(es. >1000$).
+
 
 
 
