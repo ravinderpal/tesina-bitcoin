@@ -9,6 +9,6 @@
    * [Block chain](block_chain.md)
    * [Wallet](wallet.md)
    * [Transazioni](transazioni.md)
-* [Utilizzare Bitcoin](utilizzare_bitcoin.md)
 * [Cose da sapere](cose_da_sapere.md)
+* [Utilizzare Bitcoin](utilizzare_bitcoin.md)
 
