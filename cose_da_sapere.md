@@ -16,5 +16,14 @@ Bitcoin non possiede alcun tipo di dato personale riguardo agli utenti. Mantiene
 Una transazione viene effettuata nell'arco di pochi secondi ma comincia ad essere confermata solo nei dieci minuti successsivi. In questo arco di tempo, la transazione può essere considerata autentica ma ancora reversibile. Gli utenti disonesti potrebbero cercare di ingannare. E' quindi consigliabile aspettare anche fino a 6 conferme(un'ora) per pagamenti rilevanti(es. >1000$).
 
 
+##Bitcoin è ancora sperimentale
+Bitcoin è una nuova valuta sperimentale in pieno sviluppo. Il suo futuro non può essere predetto da nessuno
+
+##Bitcoin non è una valuta ufficiale
+Bitcoin non è una valuta ufficiale e dato che gli ordinamenti giuridici richiedono pagamento di imposte su qualsiasi cosa abbia valore, è responsabilità dell'utente pagare le imposte e rispettare le norme imposte dal proprio governo.
+
+
+
+
 
 
