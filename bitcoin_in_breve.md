@@ -10,14 +10,15 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 - Mentre in una banca le nostre infomazioni sono protette grazie alla legge sulla privacy, nella rete Bitcoin tutti posso vedere le transazioni di tutti essendo il __registo pubblico__.
 - Mentre ci si può fidare della propria banca, o nel caso effettuare una denuncia per eventuali problemi, nella rete Bitcoin non ci si dovrebbe fidare di nessuno perchè in molti casi non si conosce con cui si sta trattando.
 
-Fortunatamente questi problemi sono risolti grazie a delle speciali funzioni matematiche che gestiscono il corretto funzionamento del sistema.
+Allora _perchè utilizzare questo sistema?_
+Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni matematiche__ che __gestiscono__ il corretto __funzionamento del sistema__.
 
 ##Vantaggi
-- I bitcoin sono trasferiti da persona a persona attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
-- Quindi i costi sono molto minori(nella maggior parte dei casi anche nulli).
+- I bitcoin sono __trasferiti da persona a persona__ attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
+- Quindi i __costi__ sono molto __minori__ (nella maggior parte dei casi anche nulli).
 - Possono essere utilizzati in tutto il mondo.
 - Non si necessita di alcun tipo di prerequisito.
-
+- Non esiste __nessuna limitazione__.
 
 
 ##Criptovaluta nel passato: Il popolo Yap
@@ -29,7 +30,7 @@ Quindi:
 - Non si poteva spendere quella moneta due volte perchè tutti lo avrebbero saputo.
 - Non si poteva falsificare una moneta se non scolpendone un'altra ma quelle pietre erano rare da trovare.
 
-Questo sistema non funzionò per molto.  Si rivelò invece efficace nella criptomoneta, soprattutto in Bitcoin.
+Questo sistema non funzionò per molto. Si rivelò invece efficace nella criptomoneta, soprattutto in Bitcoin.
 
 I bitcoin non sono una moneta materiale che può essere spostata fisicamente ma è legata ad un registro pubblico consultabile da chiunque.
 
