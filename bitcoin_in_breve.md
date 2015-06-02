@@ -12,13 +12,6 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 Allora _perchè utilizzare questo sistema?_
 Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni matematiche__ che __gestiscono__ il corretto __funzionamento del sistema__.
 
-##Vantaggi
-- I bitcoin sono __trasferiti da persona a persona__ attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
-- Quindi i __costi__ sono molto __minori__ (nella maggior parte dei casi anche nulli).
-- Possono essere utilizzati in tutto il mondo.
-- Non si necessita di alcun tipo di prerequisito.
-- Non esiste __nessuna limitazione__.
-
 
 ##Criptovaluta nel passato: Il popolo Yap
 
@@ -39,7 +32,13 @@ Ciò che rende difficile commettere frodi è:
 - L'impossibilità di falsificare moneta perchè l'unico modo per guadagnare bitcoin è la risoluzione di problemi matematici molto complessi che richiedono molta potenza di calcolo.
 
 
+##Vantaggi
 
+- I bitcoin sono __trasferiti da persona a persona__ attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
+- Quindi i __costi__ sono molto __minori__ (nella maggior parte dei casi anche nulli).
+- Possono essere utilizzati in tutto il mondo.
+- Non si necessita di alcun tipo di prerequisito.
+- Non esiste __nessuna limitazione__.
 
 
 
