@@ -1,5 +1,4 @@
 #Bitcoin in breve
-
 Il sistema __Bitcoin__ può essere rappresentato come un _registro_, chiamato __block chain__, contenente una lista di account e importi. Una copia di questo file è mantenuta in ogni computer appartenente alla rete Bitcoin.
 Gli importi degli account non rappresentano niente nel mondo reale ma assumono un certo valore perchè le persone sono disposte a scambiare beni e servizi per aumentare questo valore nel proprio account.
 Per inviare del denaro si trasmette alla rete una __transazione__ per indicare che _l'importo sul proprio conto deve diminuire ed aumentare della stessa quantità sul conto del destinatario_. I nodi che ricevono questa transazione aggiornano il loro regitro e la ritrasmettono agli altri nodi.
