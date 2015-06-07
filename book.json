@@ -1,4 +1,7 @@
 {
+    "styles": {
+    "website": "mystyle.css"
+  },
     "plugins": [
         "autocover"
     ],
