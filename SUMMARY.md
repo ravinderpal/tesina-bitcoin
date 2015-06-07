@@ -7,9 +7,5 @@
 * [Bitcoin in breve](bitcoin_in_breve.md)
 * [Cose da sapere](cose_da_sapere.md)
 * [Utilizzare Bitcoin](utilizzare_bitcoin.md)
-* Funzionamento
-   * [Block chain](block_chain.md)
-   * [Wallet](wallet.md)
-   * [Transazioni](transazioni.md)
 * [Sitografia](sitografia.md)
 
