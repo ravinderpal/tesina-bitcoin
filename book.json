@@ -5,5 +5,24 @@
     "plugins": [
         "autocover"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "autocover": {
+            {
+    "title": "Bitcoin",
+    "author": "Ravinder Pal Singh",
+    "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+    },
+    "size": {
+        "w": 1800,
+        "h": 2360
+    },
+    "background": {
+        "image": "/img/BC_logo.png"
+    }
+}
+        }
+    }
 }
