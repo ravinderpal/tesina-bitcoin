@@ -1,13 +1,14 @@
 {
     "styles": {
-    "website": "mystyle.css"
+    "website": "mystyle.css",
+    "pdf": "mystyle.css"
   },
     "plugins": [
         "autocover"
     ],
     "pluginsConfig": {
         "autocover": {
-            {
+            
     "title": "Bitcoin",
     "author": "SINGH Ravinder Pal",
     "font": {
@@ -25,4 +26,4 @@
 }
         }
     }
-}
+
