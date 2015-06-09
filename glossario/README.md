@@ -45,7 +45,7 @@ Per hash rate si intende l'__unità di misura della potenza di elaborazione dell
 
 Un indirizzo Bitcoin è equivalente ad un indirizzo fisico o ad una e-mail. E' la sola __informazione da fornire a qualcuno affinchè possa pagarci con Bitcoin__. Una differenza importante, comunque, è che ogni indirizzo dovrebbe essere utilizzato unicamente per una singola transazione.
 
-##Mining
+###Mining
 
 Per mining si intende il __processo che fa eseguire calcoli matematici ai computer al fine di confermare le transazioni ed aumentare la sicurezza della rete Bitcoin__. Come ricompensa per il loro servizio, i _miner_ (minatori) di Bitcoin possono incassare delle commissioni sulle transazioni che confermano insieme ai nuovi bitcoin appena creati. Quello del mining è un mercato specializzato e competitivo dove le ricompense sono divise in base a quanti calcoli sono stati eseguiti. Non tutti gli utenti Bitcoin si cimentano nel mining e non è un modo facile per fare soldi.
 
