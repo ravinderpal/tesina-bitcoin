@@ -9,21 +9,21 @@
     "pluginsConfig": {
         "autocover": {
             
-    "title": "Bitcoin",
-    "author": "SINGH Ravinder Pal",
-    "font": {
-        "size": null,
-        "family": "Impact",
-        "color": "#FFF"
-    },
-    "size": {
-        "w": 1800,
-        "h": 2360
-    },
-    "background": {
-        "image": "/img/BC_logo.png"
-    }
-}
+            "title": "Bitcoin",
+            "author": "SINGH Ravinder Pal",
+         "      font": {
+                    "size": null,
+                    "family": "Impact",
+                    "color": "#FFF"
+                },
+                "size": {
+                    "w": 1800,
+                    "h": 2360
+                },
+                "background": {
+                    "color": "#FFF"
+                }
         }
     }
+}
 
