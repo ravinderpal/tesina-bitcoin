@@ -7,5 +7,6 @@
 * [Funzionamento](funzionamento/README)
 * [Cose da sapere](cose_da_sapere.md)
 * [Utilizzare Bitcoin](utilizzare_bitcoin.md)
+* [Glossario](glossario/README.md)
 * [Sitografia](sitografia.md)
 
