@@ -9,5 +9,5 @@
 * [Utilizzare Bitcoin](utilizzare_bitcoin.md)
 * [Glossario](glossario/README.md)
 * [Sitografia](sitografia.md)
-* Criptovaluta
+* [Criptovaluta](criptovaluta.md)
 
