@@ -1,5 +1,7 @@
 # Criptovaluta
 
+Una criptovaluta è una valuta paritaria, decentralizzata digitale la cui implementazione si basa sui principi della crittografia per convalidare le transazioni e la generazione di moneta in sé. Ad oggi, tutte le criptovalute sono tutte valute alternative rispetto alle valute con valore legale. Le implementazioni di criptovalute spesso usano uno schema proof-of-work come salvaguardia alla contraffazione digitale. Sono state definite oltre 30 diverse specifiche e protocolli di criptovalute per lo più simili o derivate dalla prima criptovaluta mai implementata, il Bitcoin.
+La maggior parte delle criptovalute sono progettate per introdurre gradualmente nuove unità di valuta, ponendo un tetto massimo alla quantità di moneta che è in circolazione. Ciò viene fatto sia per imitare la scarsità (e il valore) dei metalli preziosi, sia per evitare l'iperinflazione. Comparata con le valute ordinarie gestite dagli istituti finanziari o tenute come contante, le criptovalute sono meno suscettibili a confische da parte delle forze dell'ordine. Le criptovalute esistenti sono tutte pseudonimi che consentirebbero l'anonimato.
 
 ##Le principali criptovalute
 
