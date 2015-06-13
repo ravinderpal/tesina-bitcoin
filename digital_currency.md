@@ -1,6 +1,6 @@
 # Digital currency
 
-**Digital currency** or **digital money** is an internet based medium of exchange that exhibits properties similar to physical currencies, however, allows for instantaneous transactions and borderless transfer-of-ownership. Both virtual currencies and cryptocurrencies are types of digital currencies, but the converse is incorrect. Like traditional money these currencies may be used to buy physical goods and services but could also be restricted to certain communities such as for example for use inside an on-line game or social network. Digital currencies such as bitcoin are known as "decentralized digital currencies," meaning that there is no central point of control over the money supply.
+**Digital currency** or **digital money** is an internet based medium of exchange that exhibits properties similar to physical currencies, however, allows for instantaneous transactions and borderless transfer-of-ownership. Like traditional money these currencies may be used to buy physical goods and services but could also be restricted to certain communities such as for example for use inside an on-line game or social network. Digital currencies such as bitcoin are known as "decentralized digital currencies," meaning that there is no central point of control over the money supply. Both virtual currencies and cryptocurrencies are types of digital currencies, but the converse is incorrect.
 
 
 ##Virtual currency
