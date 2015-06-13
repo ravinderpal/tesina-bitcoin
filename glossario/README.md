@@ -2,7 +2,7 @@
 
 ###Bitcoin
 
-_Bitcoin_ - con la maiuscola, è usata quando si descrive il concetto di Bitcoin, il __protocollo__ o l'intero network stesso. Per esempio "Oggi stavo studiando il protocollo Bitcoin."  
+_Bitcoin_ - con la maiuscola, è usata quando si descrive il concetto di Bitcoin, il __protocollo__ o l'intero network stesso. Per esempio "Oggi stavo studiando il protocollo Bitcoin."
 _bitcoin_ - senza maiuscola, è usata per descrivere i bitcoin come un'__unità di conto__. Per esempio "Ti ho mandato dieci bitcoin oggi."; inoltre, è spesso abbreviato in BTC o XBT.
 
 ###Blocco
@@ -15,7 +15,7 @@ La block chain è un __registro pubblico delle transazioni Bitcoin in ordine cro
 
 ###BTC
 
-Il BTC è un'unità comune utilizzata per designare un bitcoin.
+Il BTC(o XTC) è un'unità comune utilizzata per designare un bitcoin.
 
 ###Chiave Privata
 
@@ -43,7 +43,8 @@ Per hash rate si intende l'__unità di misura della potenza di elaborazione dell
 
 ###Indirizzo
 
-Un indirizzo Bitcoin è equivalente ad un indirizzo fisico o ad una e-mail. E' la sola __informazione da fornire a qualcuno affinchè possa pagarci con Bitcoin__. Una differenza importante, comunque, è che ogni indirizzo dovrebbe essere utilizzato unicamente per una singola transazione.
+Un indirizzo Bitcoin è equivalente ad un indirizzo fisico o ad una e-mail. E' la sola __informazione da fornire a qualcuno affinchè possa pagarci con Bitcoin__.    Inoltre, per evitare che qualcuno possa risalire al nostro bilancio attraverso la lista delle transazioni, è possibile rigenerare un nuovo indirizzo per ogni singola transazione.
+Si sottolinea quindi che ad una persona possono essere associati più indirizzi bitcoin i quali vengono mantenuti nei loro _portafoglio_. Per dimostrare di essere i legittimi proprietari un  indirizzo è neccessaria la corrispondente chiave privata.
 
 ###Mining
 
@@ -55,4 +56,4 @@ Per peer to peer si intendono i __sistemi che__ funzionano come un collettivo or
 
 ###Portafoglio
 
-Un portafoglio di Bitcoin è circa l'equivalente di un portafoglio materiale sulla rete Bitcoin. In realtà il portafoglio contiene le chiavi private che permettono di usare i bitcoin allocati nella block chain. Ogni portafoglio Bitcoin può mostrare il bilancio totale di tutti i bitcoin che controlla e __permette di pagare__ cifre precise ad una persona specifica, __come un vero portafoglio__. Questo è diverso dalla carte di credito dove vengono addebitate le spese dal commerciante.
+Un portafoglio di Bitcoin è circa l'equivalente di un portafoglio materiale sulla rete Bitcoin. In  ealtà il portafoglio contiene solamente le chiavi private che permettono di usare i bitcoin allocati nella block chain. Ogni portafoglio Bitcoin può mostrare il bilancio totale di tutti i bitcoin che controlla e __permette di pagare__ cifre precise ad una persona specifica, __come un vero portafoglio__.
