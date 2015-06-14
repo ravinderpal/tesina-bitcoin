@@ -1,10 +1,10 @@
 {
-    "styles": {
-    "website": "mystyle.css",
-    "pdf": "mystyle.css"
+    "website":{
+    "style": "mystyle.css"
   },
     "pdf": {
-    "fontSize": 20
+    "style":"mystyle.css",
+    "fontSize": 14
   },
     "plugins": [
         "autocover"
