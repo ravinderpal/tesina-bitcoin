@@ -4,10 +4,7 @@
     "pdf": "mystyle.css"
   },
     "pdf": {
-    "fontSize": 14
-  },
-    "website": {
-    "fontSize": 14
+    "fontSize": 16
   },
     "plugins": [
         "autocover"
