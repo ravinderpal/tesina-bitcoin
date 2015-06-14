@@ -1,4 +1,6 @@
-#Bitcoin in breve
+#BITCOIN IN BREVE
+
+##Cos'è Bitcoin?
 Il sistema __Bitcoin__ può essere rappresentato come un _registro_, chiamato __block chain__, contenente una lista di account e importi. Una copia di questo file è mantenuta in ogni computer appartenente alla rete Bitcoin.
 Gli importi degli account non rappresentano niente nel mondo reale ma assumono un certo valore perchè le persone sono disposte a scambiare beni e servizi per aumentare questo valore nel proprio account.
 Per inviare del denaro si trasmette alla rete una __transazione__ per indicare che _l'importo sul proprio conto deve diminuire ed aumentare della stessa quantità sul conto del destinatario_. I nodi che ricevono questa transazione aggiornano il loro regitro e la ritrasmettono agli altri nodi.
@@ -13,7 +15,7 @@ Allora _perchè utilizzare questo sistema?_
 Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni matematiche__ che __gestiscono__ il corretto __funzionamento del sistema__.
 
 
-##Criptovaluta nel passato: Il popolo Yap
+##Un esempio per capire la criptovaluta: Il popolo Yap
 
 Circa un secolo fa, il popolo Yap dell'isola del Pacifico utilizzò dischi di pietra come moneta. Le dimensioni di queste pietre determinavano il valore della moneta e potevano raggiungere anche l'altezza di 4 metri.
 Date queste dimensioni esagerate, lo spostamento di questa moneta risultava molto scomodo. Allora si decise semplicemente di effettuare un cambio di proprietà per traferire questo tipo di denaro da una persona all'altra.
@@ -30,7 +32,6 @@ Ciò che rende difficile commettere frodi è:
 - L'impossibilità di utilizzare le moneta altrui perchè tutti conoscono a chi appartegono determinate monete in base alla _block chain_.
 - L'impossibilità di spendere le monete due volte perchè la rete se ne accorgerebbe essendo il registro uno solo e sempre aggiornato.
 - L'impossibilità di falsificare moneta perchè l'unico modo per guadagnare bitcoin è la risoluzione di problemi matematici molto complessi che richiedono molta potenza di calcolo.
-
 
 ##Vantaggi
 
