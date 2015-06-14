@@ -3,6 +3,9 @@
     "website": "mystyle.css",
     "pdf": "mystyle.css"
   },
+    "pdf": {
+    "fontSize": 20
+  },
     "plugins": [
         "autocover"
     ],
