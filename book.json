@@ -1,9 +1,12 @@
 {
-    "website":{
-    "style": "mystyle.css"
+    "styles": {
+    "website": "mystyle.css",
+    "pdf": "mystyle.css"
   },
     "pdf": {
-    "style":"mystyle.css",
+    "fontSize": 14
+  },
+    "website": {
     "fontSize": 14
   },
     "plugins": [
