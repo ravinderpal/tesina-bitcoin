@@ -1,10 +1,8 @@
-
 # Introduzione
 
 > __Bitcoin: una moneta elettronica peer-to-peer decentralizzata. Prima forma di criptovaluta.__
 
 Che cosa significa?
-
 
 <h5 style="text-align: justify; font-style: italic">
 Molti di voi avranno sentito almeno una volta nella vita il termine Bitcoin, ma senza forse capire che cosa sia o come funzioni realmente.

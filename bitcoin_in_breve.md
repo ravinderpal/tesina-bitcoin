@@ -33,14 +33,14 @@ Ciò che rende difficile commettere frodi è:
 - L'impossibilità di spendere le monete due volte perchè la rete se ne accorgerebbe essendo il registro uno solo e sempre aggiornato.
 - L'impossibilità di falsificare moneta perchè l'unico modo per guadagnare bitcoin è la risoluzione di problemi matematici molto complessi che richiedono molta potenza di calcolo.
 
+
 ##Vantaggi
 
 - I bitcoin sono __trasferiti da persona a persona__ attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
 - Quindi i __costi__ sono molto __minori__, nella maggior parte dei casi quasi nulli.
-- Possono essere utilizzati in tutto il mondo. Infatti sono sempre di più i siti, i negozi, i bar e i ristoranti che permettono questo metodo di pagamento. Questo enti sono riconoscibile dalla dicitura _Bitcoin accepted_.
+- Possono essere utilizzati in tutto il mondo. Infatti sono sempre di più i siti, i negozi, i bar e i ristoranti che permettono questo metodo di pagamento. Questo enti sono riconoscibile dalla dicitura _Bitcoin accepted here_.
 - Non si necessita di alcun tipo di prerequisito.  Qualunque persona può iniziare a utilizzare i bitcoin senza alcuna restrizione.
 - Non esiste __nessuna limitazione__. E' possibile inviare e riceve una qualunque somma di bitcoin.
-
 
 
 

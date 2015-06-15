@@ -15,4 +15,4 @@ L'anonimato coinvolto nell'uso della moneta ne ha permesso l'adozione da parte d
 
 I servizi che offrono la possibilità di __scambiare bitcoins con valute non digitali come euro e dollaro americano__ sono chiamati __bitcoin exchange__.
 
-Un __singolo bitcoin__ nel 2013 è arrivato anche a valere __oltre mille dollari statunitensi__. 
+Un __singolo bitcoin__ nel 2013 è arrivato anche a valere __oltre mille dollari statunitensi__.
