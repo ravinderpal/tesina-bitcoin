@@ -13,6 +13,11 @@ Il sistema Bitcoin puo’ essere forzato, ma ciò è molto difficile da attuare 
 
 Il sistema Bitcoin non è totalmente inattaccabile, tuttavia è molto vicino alla perfezione. Essendo open sorce, molti sviluppatori da tutto il mondo cercano di migliorarlo sempre di più.
 
+###Gli indirizzi
+Ogni utente che partecipa alla rete Bitcoin possiede un portafoglio che contiene un numero arbitrario di coppie di chiavi crittografiche. Le chiavi pubbliche, o "indirizzi bitcoin", fungono da punti d'invio o ricezione per tutti i pagamenti. La corrispondente chiave privata autorizza il pagamento solo all'utente proprietario di una certa moneta. Gli indirizzi non contengono informazioni riguardo ai loro proprietari ed in genere sono anonimi. Gli indirizzi in forma leggibile sono sequenze casuali di caratteri e cifre lunghe in media 33 caratteri, che cominciano sempre per 1, della forma 175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W. Gli utenti possono avere un numero arbitrario di indirizzi Bitcoin, ed infatti è possibile generarne a piacimento senza nessun limite in quanto la loro generazione costa poco tempo di calcolo (equivalente alla generazione di una coppia di chiavi pubblica/privata) e non richiede nessun contatto con altri nodi della rete. Creare una nuova coppia di chiavi per ogni transazione aiuta a mantenere l'anonimato.
 
+
+###Le transazioni
+I bitcoin contengono la chiave pubblica del loro proprietario (cioè l'indirizzo). Quando un utente A trasferisce della moneta all'utente B rinuncia alla sua proprietà aggiungendo la chiave pubblica di B (il suo indirizzo) sulle monete in oggetto e firmandole con la propria chiave privata. Trasmette poi queste monete in un apposito messaggio, la "transazione", attraverso la rete peer-to-peer. Il resto dei nodi validano le firme crittografiche e l'ammontare delle cifre coinvolte prima di accettarla.
 
 
