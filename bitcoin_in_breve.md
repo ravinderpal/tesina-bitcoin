@@ -9,7 +9,7 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 - Mentre in una banca le nostre infomazioni sono protette grazie alla legge sulla privacy, nella rete Bitcoin chiunque può visualizzare le transazioni altrui essendo il __registo pubblico__.
 - Mentre ci si può fidare della propria banca, o nel caso effettuare una denuncia per eventuali problemi, nella rete Bitcoin non ci si dovrebbe fidare di nessuno perchè in molti casi non si conosce con cui si sta trattando.
 
-Allora _perchè utilizzare questo sistema?_
+Allora perchè utilizzare questo sistema?  
 Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni matematiche__ che __gestiscono__ il corretto __funzionamento del sistema__.
 
 
