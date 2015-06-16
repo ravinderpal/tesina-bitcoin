@@ -15,6 +15,7 @@ Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni m
 
 
 ##Un esempio per capire: Il popolo Yap
+
 Circa un secolo fa, il popolo Yap dell'isola del Pacifico utilizzò dischi di pietra come moneta. Le dimensioni di queste pietre determinavano il valore della moneta e potevano raggiungere anche l'altezza di 4 metri.
 Date queste dimensioni esagerate, lo spostamento di questa moneta risultava molto scomodo. Allora si decise semplicemente di effettuare un cambio di proprietà per traferire questo tipo di denaro da una persona all'altra.
 Quindi:
