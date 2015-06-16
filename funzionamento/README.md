@@ -1,4 +1,4 @@
-# Funzionamento
+#Il funzionamento in dettaglio
 
 ##Il sistema Bitcoin
 Il bitcoin è stato pensato per evitare i principali problemi delle valute correnti, in particolare il fatto che il livello di fiducia in esse dipenda da persone che non sempre mettono al primo posto gli interessi dei detentori di queste valute.

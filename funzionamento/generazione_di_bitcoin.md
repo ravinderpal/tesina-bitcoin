@@ -1,8 +1,5 @@
 # Generazione di bitcoin
 
-
-##Generazione dei bitcoin
-
 ###Il processo di mining
 La rete Bitcoin crea e distribuisce in maniera completamente casuale un certo ammontare di monete all'incirca sei volte l'ora ai client che prendono parte alla rete in modo attivo, ovvero che contribuiscono tramite la propria potenza di calcolo alla gestione e alla sicurezza della rete stessa. L'attività di __generazione di bitcoin__ viene spesso __definita come _mining_ __, un termine analogo al _gold mining_ (estrazione di oro). __La probabilità che un certo utente riceva la ricompensa in monete dipende dalla potenza computazionale che aggiunge alla rete relativamente al potere computazionale totale della rete__.
 Inizialmente il client stesso si occupava di svolgere i calcoli necessari all'estrazione dei Bitcoin, sfruttando la sola CPU. Con l'aumentare della potenza di calcolo totale della rete e a seguito della natura competitiva della generazione di bitcoin, questa funzionalità è diventata antieconomica ed è stata rimossa. Oggigiorno esistono dei programmi specializzati che inizialmente sfruttavano la potenza delle GPU e delle FPGA, e che ora utilizzano hardware dedicato basato su processori ASIC progettati appositamente per questo utilizzo.
