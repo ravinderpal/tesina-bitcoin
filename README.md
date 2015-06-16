@@ -21,4 +21,3 @@ __IIS G.Galilei Crema__
 <h3>
 
 
-######_(Attenzione: questa non è la versione definitiva del documento)_
