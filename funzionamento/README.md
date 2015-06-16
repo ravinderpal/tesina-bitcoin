@@ -13,11 +13,11 @@ Il sistema Bitcoin puo’ essere forzato, ma ciò è molto difficile da attuare 
 
 Il sistema Bitcoin non è totalmente inattaccabile, tuttavia è molto vicino alla perfezione. Essendo open sorce, molti sviluppatori da tutto il mondo cercano di migliorarlo sempre di più.
 
-###Gli indirizzi
+##Gli indirizzi
 __Ogni utente__ che partecipa alla rete Bitcoin __possiede__ un portafoglio che contiene un numero arbitrario di __coppie di chiavi crittografiche__. Le __chiavi pubbliche__, o _indirizzi bitcoin_, __fungono da punti d'invio o ricezione per tutti i pagamenti__. La corrispondente __chiave privata autorizza il pagamento solo all'utente proprietario__ di una certa moneta. Gli indirizzi non contengono informazioni riguardo ai loro proprietari ed in genere sono anonimi. Gli indirizzi in forma leggibile sono sequenze casuali di caratteri e cifre lunghe in media 33 caratteri, che cominciano sempre per 1, della forma 175tWpb8K1S7NmH4Zx6rewF9WQrcZv245W. Gli utenti possono avere un numero arbitrario di indirizzi Bitcoin, ed infatti è possibile generarne a piacimento senza nessun limite in quanto la loro generazione costa poco tempo di calcolo (equivalente alla generazione di una coppia di chiavi pubblica/privata) e non richiede nessun contatto con altri nodi della rete. Creare una nuova coppia di chiavi per ogni transazione aiuta a mantenere l'anonimato.
 
 
-###Le transazioni
+##Le transazioni
 __I bitcoin contengono la chiave pubblica del loro proprietario__ (cioè l'indirizzo). Quando un utente A trasferisce della moneta all'utente B rinuncia alla sua proprietà aggiungendo la chiave pubblica di B (il suo indirizzo) sulle monete in oggetto e firmandole con la propria chiave privata. Trasmette poi queste monete in un apposito messaggio, la _transazione_, attraverso la rete peer-to-peer. Il resto dei nodi validano le firme crittografiche e l'ammontare delle cifre coinvolte prima di accettarla.
 
 ###La _block chain_ e le conferme
@@ -30,6 +30,25 @@ Ne consegue che __la catena dei blocchi contiene lo storico di tutti i movimenti
 Nakamoto ha progettato il sistema in modo che, nonostante il database aumenti di dimensioni nel tempo, sia possibile averne una versione ridotta che riguardi nel dettaglio solo alcune transazioni, ma che rimanga completamente verificabile in modo indipendente. Ad esempio, per un utente privato potrebbe essere interessante avere la catena dei blocchi con le sole transazioni che lo riguardano. Oppure, potrebbe essere desiderabile ripulire dal database tutte le transazioni le cui somme in uscita sono già state utilizzate in altre transazioni, diminuendone di molto le dimensioni.
 
 
+##Generazione dei bitcoin
+
+###Il processo di mining
+La rete Bitcoin crea e distribuisce in maniera completamente casuale un certo ammontare di monete all'incirca sei volte l'ora ai client che prendono parte alla rete in modo attivo, ovvero che contribuiscono tramite la propria potenza di calcolo alla gestione e alla sicurezza della rete stessa. L'attività di __generazione di bitcoin__ viene spesso __definita come _mining_ __, un termine analogo al _gold mining_ (estrazione di oro). __La probabilità che un certo utente riceva la ricompensa in monete dipende dalla potenza computazionale che aggiunge alla rete relativamente al potere computazionale totale della rete__.
+Inizialmente il client stesso si occupava di svolgere i calcoli necessari all'estrazione dei Bitcoin, sfruttando la sola CPU. Con l'aumentare della potenza di calcolo totale della rete e a seguito della natura competitiva della generazione di bitcoin, questa funzionalità è diventata antieconomica ed è stata rimossa. Oggigiorno esistono dei programmi specializzati che inizialmente sfruttavano la potenza delle GPU e delle FPGA, e che ora utilizzano hardware dedicato basato su processori ASIC progettati appositamente per questo utilizzo.
+
+###Le mining pool
+Dal momento che la quantità di operazioni mediamente necessarie a chiudere con successo un singolo blocco è diventata talmente elevata da richiedere grandi quantità di risorse in termini di energia elettrica e potenza computazionale, la maggior parte dei minatori si unisce in delle "gilde" chiamate __mining pool__ dove tutti __i partecipanti mettono in comune le proprie risorse__, spartendosi poi i blocchi generati in funzione del contributo di ognuno.
+
+###Il premio per i miner
+Il __numero di bitcoin creati per blocco era inizialmente di 50 BTC__ (aggiunti agli eventuali costi delle singole transazioni). Tale quantità è stata programmata per diminuire nel tempo con un __dimezzamento del premio ogni 4 anni circa__. Così dimensionata, questa serie comporta che __in totale verranno creati esattamente 21 milioni di bitcoin nel giro di 130 anni circa__, con l'80% degli stessi creati nei primi 10 anni. A partire dal 28 novembre 2012, la ricompensa è passata a 25 BTC per blocco, e così sarà per i successivi 4 anni. Con la progressiva riduzione della ricompensa di generazione nel tempo, la fonte del guadagno per i minatori passerà dalla generazione della moneta alle commissioni di transazione incluse nei blocchi, fino al giorno in cui la ricompensa cesserà di essere elargita: per allora l'elaborazione delle transazioni verrà ricompensata unicamente dalle commissioni di transazione stesse.
+
+###Le commissioni
+__L'importo della commissione può essere impostato liberamente__ da chi effettua una transazione, sebbene da maggio 2013, commissioni al di sotto alla soglia di 0.0001 BTC vengono considerate non standard e, di conseguenza, le transazioni associate rischiano di non essere mai confermate. __Tanto più è alta la commissione tanto più è probabile che venga inclusa nel primo blocco estratto__, accelerando quindi la prima conferma. Gli utilizzatori hanno dunque un incentivo ad includere tali commissioni, perché ciò significa che la transazione sarà probabilmente elaborata più rapidamente: __ogni minatore ha la libertà di scegliere quali transazioni includere nel blocco che sta elaborando__, che ha una dimensione massima prefissata dal protocollo, __e__ che quindi __sarà invogliato ad includere__ per prime __le transazioni con commissioni maggiori._
+
+###Come avviene l'operazione di mining
+Tutti i nodi della rete competono per essere i primi a trovare una soluzione di un problema crittografico che riguarda il blocco candidato, un problema che non può essere risolto in altri modi che tramite bruteforce e che quindi richiede sostanzialmente un enorme numero di tentativi. Quando un nodo trova una soluzione valida l'annuncia al resto della rete attribuendosi contemporaneamente i bitcoin in premio previsti dal protocollo. I nodi che ricevono il nuovo blocco lo verificano e lo aggiungono alla loro catena, ricominciando il lavoro di mining al di sopra del blocco appena ricevuto.
+Dal punto di vista tecnico __il processo di mining__ non __è__ altro che __un'operazione di hashing inverso__: determinare un numero (chiamato _nonce_) tale per cui l'hash __SHA-256__ di un insieme di dati rappresentante il blocco sia inferiore ad una soglia data.
+Questa soglia, chiamata per l'appunto difficoltà, è ciò che determina la natura concorrenziale del mining di bitcoin: più potenza di calcolo viene aggiunta alla rete bitcoin e più questo parametro aumenta, aumentando di conseguenza il numero di calcoli mediamente necessari a creare un nuovo blocco e aumentando quindi il costo di creazione dello stesso, spingendo i nodi a migliorare l'efficienza dei loro sistemi di mining per mantenere un bilancio economico positivo.     L'aggiornamento di questo parametro avviene ogni 14 giorni circa, dimensionandosi in modo che un nuovo blocco venga generato in media ogni 10 minuti.
 
 
 
