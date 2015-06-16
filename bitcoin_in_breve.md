@@ -3,12 +3,12 @@
 ##Cos'è Bitcoin?
 Il sistema __Bitcoin__ può essere rappresentato come un _registro_, chiamato __block chain__, contenente una lista di account e importi. Una copia di questo file è mantenuta in ogni computer appartenente alla rete Bitcoin.
 Gli importi degli account non rappresentano niente nel mondo reale ma assumono un certo valore perchè le persone sono disposte a scambiare beni e servizi per aumentare questo valore nel proprio account.
-Per inviare del denaro si trasmette alla rete una __transazione__ per indicare che _l'importo sul proprio conto deve diminuire ed aumentare della stessa quantità sul conto del destinatario_. I nodi che ricevono questa transazione aggiornano il loro regitro e la ritrasmettono agli altri nodi.
+Per inviare del denaro si trasmette alla rete una __transazione__ per indicare che _l'importo sul proprio conto deve diminuire ed aumentare della stessa quantità sul conto del destinatario_. I nodi che ricevono questa transazione aggiornano il loro registro e la ritrasmettono agli altri nodi.
 In poche parole quindi, __Bitcoin è un sistema che consente ad un gruppo di computer di mantenere un registro di transazioni__, grazie alla sicurezza derivante da particolari operazioni matematiche.
 Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, il fatto che sia mantenuto da un gruppo piuttosto che una singola entità comporta alcune differenze.
 
 ###Differenze con una banca
-- Mentre in una banca le nostre infomazioni sono protette grazie alla legge sulla privacy, nella rete Bitcoin tutti posso vedere le transazioni di tutti essendo il __registo pubblico__.
+- Mentre in una banca le nostre infomazioni sono protette grazie alla legge sulla privacy, nella rete Bitcoin chiunque può visualizzare le transazioni altrui essendo il __registo pubblico__.
 - Mentre ci si può fidare della propria banca, o nel caso effettuare una denuncia per eventuali problemi, nella rete Bitcoin non ci si dovrebbe fidare di nessuno perchè in molti casi non si conosce con cui si sta trattando.
 
 Allora _perchè utilizzare questo sistema?_

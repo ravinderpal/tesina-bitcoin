@@ -11,12 +11,12 @@ Nel gennaio del 2009, l'invenzione di Nakamoto fu rilasciata come software __ope
 ###La diffusione
 
 ####2009
-- 12 gennaio. Prima transazione Bitcoin. Mittente: Satoshi Nakamoto. Destinatario: Hal Finney.
+- 12 gennaio. __Prima transazione__ Bitcoin. Mittente: _Satoshi Nakamoto_. Destinatario: Hal Finney_.
 - 5 ottobre. Viene pubblicato il tasso di cambio del Bitcoin rispetto al dollaro sul mercato: $1 = 1,309.03 BTC.
 
 ####2010
 - 6 febbraio. Viene aperto il primo dei mercati di cambio ufficiali, Bitcoin Market.
-- 22 maggio. Viene effettuato il primo acquisto online. Per 10mila monete (in quel momento pari a 50 dollari) un certo laszlo compra una pizza.
+- 22 maggio. Viene effettuato il primo acquisto online. Per 10mila monete (in quel momento pari a 50 dollari) un certo _Laszlo_ compra una pizza.
 - 17 luglio. Viene creato un altro mercato, MtGox.
 
 ###2011
