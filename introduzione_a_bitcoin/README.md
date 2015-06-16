@@ -1,7 +1,7 @@
 ![Logo Bitcoin](http://www.canbike.org/public/images/030114/Bitcoin_Logo_Horizontal_Dark-4800px.png)
 
 
-
+---
 __Bitcoin è una valuta digitale__ nata nel 2008.
 E' considerata come la prima forma di __criptovaluta__.
 
@@ -18,3 +18,4 @@ L'anonimato coinvolto nell'uso della moneta ne ha permesso l'adozione da parte d
 I servizi che offrono la possibilità di __scambiare bitcoins con valute non digitali come euro e dollaro americano__ sono chiamati __bitcoin exchange__.
 
 Un __singolo bitcoin__ nel 2013 è arrivato anche a valere __oltre mille dollari statunitensi__.
+
