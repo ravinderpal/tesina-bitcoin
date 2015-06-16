@@ -1,4 +1,4 @@
-#BITCOIN IN BREVE
+![Logo Bitcoin](http://www.canbike.org/public/images/030114/Bitcoin_Logo_Horizontal_Dark-4800px.png)
 
 ##Cos'è Bitcoin?
 Il sistema __Bitcoin__ può essere rappresentato come un _registro_, chiamato __block chain__, contenente una lista di account e importi. Una copia di questo file è mantenuta in ogni computer appartenente alla rete Bitcoin.

@@ -5,9 +5,12 @@ __Ogni utente__ che partecipa alla rete Bitcoin __possiede__ un portafoglio che 
 
 
 ##Le transazioni
+
+![Transazione](http://www.businessmagazine.it/articoli/3710/digitalc2.jpg)
 __I bitcoin contengono la chiave pubblica del loro proprietario__ (cioè l'indirizzo). Quando un utente A trasferisce della moneta all'utente B rinuncia alla sua proprietà aggiungendo la chiave pubblica di B (il suo indirizzo) sulle monete in oggetto e firmandole con la propria chiave privata. Trasmette poi queste monete in un apposito messaggio, la _transazione_, attraverso la rete peer-to-peer. Il resto dei nodi validano le firme crittografiche e l'ammontare delle cifre coinvolte prima di accettarla.
 
 ###La _block chain_ e le conferme
+![blockchain](http://www.bitcoinsecurity.org/wp-content/uploads/2012/07/block-chain.png)
 Per impedire la possibilità di utilizzare più volte la stessa moneta, la rete implementa quella che Satoshi Nakamoto descrive come un _server di marcatura oraria peer-to-peer_, che assegna identificatori sequenziali ad ognuna delle transazioni che vengono poi rafforzate nei confronti di tentativi di modifica usando l'idea di una catena di proof-of-work (mostrate in Bitcoin come _conferme_).
 Ogni volta che viene effettuata una transazione, essa parte nello stato di "non confermata"; diventerà "confermata" solo quando riconosciuta valida dagli altri nodi della rete e aggiunta alla block chain.
 In particolare, __ogni nodo raccoglie__ tutte le __transazioni non confermate__ che conosce __in un _blocco_ __ candidato, un file che, tra le altre cose, contiene un hash crittografico del precedente blocco valido conosciuto a quel nodo. __Prova poi a riprodurre un hash di quel blocco__ con determinate caratteristiche, uno sforzo che richiede in media una quantità definibile di prove da dover effettuare. __Quando un nodo trova tale soluzione la annuncia al resto della rete__ e i peer che ricevono il blocco ne controllano la validità prima di accettarlo e poi aggiungerlo alla catena.
