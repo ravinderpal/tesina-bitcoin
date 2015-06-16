@@ -1,4 +1,6 @@
-# Introduzione a Bitcoin
+![Logo Bitcoin](http://www.canbike.org/public/images/030114/Bitcoin_Logo_Horizontal_Dark-4800px.png)
+
+## Introduzione a Bitcoin
 
 __Bitcoin è una valuta digitale__ nata nel 2008.
 E' considerata come la prima forma di __criptovaluta__.
