@@ -9,7 +9,7 @@ Anche se può sembrare _simile al modo in cui una banca mantiene un registro_, i
 - Mentre in una banca le nostre infomazioni sono protette grazie alla legge sulla privacy, nella rete Bitcoin chiunque può visualizzare le transazioni altrui essendo il __registo pubblico__.
 - Mentre ci si può fidare della propria banca, o nel caso effettuare una denuncia per eventuali problemi, nella rete Bitcoin non ci si dovrebbe fidare di nessuno perchè in molti casi non si conosce con cui si sta trattando.
 
-Allora perchè utilizzare questo sistema?  
+Allora perchè utilizzare questo sistema?
 Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni matematiche__ che __gestiscono__ il corretto __funzionamento del sistema__.
 
 
@@ -17,7 +17,7 @@ Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni m
 ##Un esempio per capire: Il popolo Yap
 
 Circa un secolo fa, il popolo Yap dell'isola del Pacifico utilizzò dischi di pietra come moneta. Le dimensioni di queste pietre determinavano il valore della moneta e potevano raggiungere anche l'altezza di 4 metri.
-Date queste dimensioni esagerate, lo spostamento di questa moneta risultava molto scomodo. Allora si decise semplicemente di effettuare un cambio di proprietà per traferire questo tipo di denaro da una persona all'altra.
+Date queste dimensioni esagerate, lo spostamento di questa moneta risultava molto scomodo. Allora si decise semplicemente di effettuare un cambio di proprietà per trasferire questo tipo di denaro da una persona all'altra.
 Quindi:
 - Non si poteva spendere la moneta di un'altra persona perchè tutti erano a conoscenza del vero proprietario.
 - Non si poteva spendere quella moneta due volte perchè tutti lo avrebbero saputo.
