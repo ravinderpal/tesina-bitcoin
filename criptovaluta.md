@@ -5,8 +5,9 @@ La maggior parte delle criptovalute sono progettate per introdurre gradualmente 
 
 ##Le principali criptovalute
 
-- __Bitcoin (BTC)__, nata a gennaio 2009, basata sul protocollo proof-of-work, è la prima criptovaluta per valore, la prima ad essere conosciuta in massa, e ad essere riconosciuta come forma di pagamento da diversi siti Internet, tra cui quelli del deep web.
-- __Litecoin (Ł)__, a dicembre 2013 con un valore di 41 milioni di dollari, è la seconda criptovaluta, usa scrypt come sistema proof of work ed elabora blocchi ogni 2,5 minuti anziché ogni 10 come Bitcoin.
+- __Bitcoin (BTC)__, realeased in january 2009, is considered the first kind of criptocurrency. It is the most used and recognised as a payment solution by many popular websites. .
+- __Litecoin (Ł)__,
+- a dicembre 2013 con un valore di 41 milioni di dollari, è la seconda criptovaluta, usa scrypt come sistema proof of work ed elabora blocchi ogni 2,5 minuti anziché ogni 10 come Bitcoin.
 - __Peercoin (PPC)__, nata ad agosto 2012, prima criptovaluta basata sulla combinazione dei protocolli proof-of-stake (PoS) e proof-of-work (PoW). Al 30 novembre 2013 è la terza criptovaluta, con un valore di 8,2 milioni di dollari.
 - __Quark (QRK)__, nata nel luglio 2013
 - __Namecoin (NMC)__, nata nell'aprile 2011, agisce come un DNS decentralizzato che eviterebbe la censura dei nomi di dominio creando un nuovo livello di dominio al di fuori del controllo dell'ICANN.
