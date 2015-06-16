@@ -15,6 +15,7 @@ Allora _perchè utilizzare questo sistema?_
 Fortunatamente questi problemi sono risolti grazie a delle speciali __funzioni matematiche__ che __gestiscono__ il corretto __funzionamento del sistema__.
 
 
+
 ##Un esempio per capire: Il popolo Yap
 
 Circa un secolo fa, il popolo Yap dell'isola del Pacifico utilizzò dischi di pietra come moneta. Le dimensioni di queste pietre determinavano il valore della moneta e potevano raggiungere anche l'altezza di 4 metri.
@@ -34,13 +35,7 @@ Ciò che rende difficile commettere frodi è:
 - L'impossibilità di falsificare moneta perchè l'unico modo per guadagnare bitcoin è la risoluzione di problemi matematici molto complessi che richiedono molta potenza di calcolo.
 
 
-##Vantaggi
 
-- I bitcoin sono __trasferiti da persona a persona__ attraverso la rete, senza passare attraverso una banca o una camera di compensazione.
-- Quindi i __costi__ sono molto __minori__, nella maggior parte dei casi quasi nulli.
-- Possono essere utilizzati in tutto il mondo. Infatti sono sempre di più i siti, i negozi, i bar e i ristoranti che permettono questo metodo di pagamento. Questo enti sono riconoscibile dalla dicitura _Bitcoin accepted here_.
-- Non si necessita di alcun tipo di prerequisito.  Qualunque persona può iniziare a utilizzare i bitcoin senza alcuna restrizione.
-- Non esiste __nessuna limitazione__. E' possibile inviare e riceve una qualunque somma di bitcoin.
 
 
 
