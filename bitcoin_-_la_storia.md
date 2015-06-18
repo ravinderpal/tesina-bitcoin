@@ -10,6 +10,8 @@ Nel gennaio del 2009, l'invenzione di Nakamoto fu rilasciata come software __ope
 
 ###La diffusione
 
+![coinchart](http://s15.postimg.org/rd841uhob/coindesk_bpi_chart.png)
+
 ####2009
 - 12 gennaio. __Prima transazione__ Bitcoin. Mittente: _Satoshi Nakamoto_. Destinatario: _Hal Finney_.
 - 5 ottobre. Viene pubblicato il tasso di cambio del Bitcoin rispetto al dollaro sul mercato: $1 = 1,309.03 BTC.
