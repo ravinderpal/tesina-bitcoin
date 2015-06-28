@@ -3,7 +3,7 @@
 * [Introduzione](README.md)
 * [Introduzione a Bitcoin](introduzione_a_bitcoin/README.md)
 * [Digital currency](digital_currency.md)
-* [La storia](la_storia.md)
+* [La storia](bitcoin_-_la_storia.md)
 * [Cos'è Bitcoin?](bitcoin_in_breve.md)
 * [Vantaggi e svantaggi](vantaggi_e_svantaggi/README.md)
 * [Il funzionamento in dettaglio](funzionamento/README.md)
