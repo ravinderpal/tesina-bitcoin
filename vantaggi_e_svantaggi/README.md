@@ -14,13 +14,10 @@
 Il prezzo dei bitcoin è inprevedibile e potrebbe aumentare o diminuire in un breve periodo di tempo. E' quindi considerata una risorsa ad alto richio e non è consigliabile mantenere del denaro che non possiamo permetterci di perdere.
 
 ###Le trasazioni possono essere tracciate
-Il sistema Bitcoin si basa su un registro pubblico. Quindi chiunque utilizzarlo per tracciare le transazioni di un indirizzo Bitcoin e risalire così all'importo del portafoglio. E' per questo motivo che, per proteggere l'anonimato, è opportuno cambiare il proprio indirizzo prima di effettuare qualsiasi transazione. Questa operazione consiste nel rigenerare la nostra coppia chiavi (pubblica e privata) e può essere effettuata dal software del proprio portafoglio.
+Il sistema Bitcoin si basa su un registro pubblico. Quindi chiunque può utilizzarlo per tracciare le transazioni di un indirizzo Bitcoin e risalire così all'importo del portafoglio. È per questo motivo che, per proteggere l'anonimato, è opportuno cambiare il proprio indirizzo prima di effettuare qualsiasi transazione. Questa operazione consiste nel rigenerare la nostra coppia chiavi (pubblica e privata) e può essere effettuata dal software del proprio portafoglio.
 
 ###I pagamenti con Bitcoin sono irreversibili
 Una transazione effettuata con  Bitcoin è irreversibile. Quindi è importante assicurarci che la persona o l'organizzazione con la quale si sta trattando sia affidabile e/o di solida reputazione.
-
-###Bitcoin non è del tutto anonimo
-Bitcoin non possiede alcun tipo di dato personale riguardo agli utenti. Mantiene però permanentemente tutte le transazioni che vengono effettuate, permettendo a chiunque di vedere il bilancio e le transazioni di qualunque _indirizzo Bitcoin_.
 
 ###Le transazioni immediate sono meno sicure
 Una transazione viene effettuata nell'arco di pochi secondi ma comincia ad essere confermata solo nei dieci minuti successsivi. In questo arco di tempo, la transazione può essere considerata autentica ma ancora reversibile. Gli utenti disonesti potrebbero cercare di ingannare. E' quindi consigliabile aspettare anche fino a 6 conferme (un'ora) per pagamenti rilevanti (es. >1000$).
