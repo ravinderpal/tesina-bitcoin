@@ -7,7 +7,7 @@ E' considerata come la prima forma di __criptovaluta__.
 
 L'__autore__ di Bitcoin è conosciuto con lo pseudonimo di __Satoshi Nakamoto__.
 
-Da quando questo sistema ha iniziato a diffondersi sono __nate numerose implementazioni__ e varianti del protocollo(es. Namecoin, Litecoin, Dogecoin ecc.).
+Da quando questo sistema ha iniziato a diffondersi sono __nate numerose implementazioni e varianti__ del protocollo (es. Namecoin, Litecoin, Dogecoin ecc.).
 
 Il sistema Bitcoin per il suo funzionamento __non necessita di autorità centrali__ come le banche. Infatti i __trasferimenti__ vengono effettuati __da persona a persona__, quindi anche i __costi__ sono molto __minori__.
 

@@ -11,7 +11,7 @@ A virtual currency has been defined in 2012 by the European Central Bank as _a t
 A cryptocurrency is a medium of exchange that __uses cryptography to secure the transactions and to control the creation of new units__. __Cryptocurrencies are a subset of alternative currencies__, or specifically of digital currencies. Bitcoin became the first decentralized cryptocurrency in 2009. Since then, numerous cryptocurrencies have been created. These are frequently called _altcoins_, as contraction of bitcoin alternative.
 Cryptocurrencies typically feature decentralized control (as opposed to a centralized electronic money system, such as PayPal) and a public ledger (such as bitcoin's block chain) which records transactions.
 
-Currently, there are more than five houndred criptocurrencies in online markets. A few of them (like __Bitcoin__, __Litecoin__, __Namecoin__, __Dogecoin__ and __Peercoin__) own a capitalization over $10 million.
+Currently, there are more than five houndred criptocurrencies in online markets and few of them (like __Bitcoin__, __Litecoin__, __Namecoin__, __Dogecoin__ and __Peercoin__) own a capitalization over $10 million.
 
 
 

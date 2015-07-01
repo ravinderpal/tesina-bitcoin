@@ -12,9 +12,9 @@ Questo documento è stato creato tramite [Gitbook](gitbook.com) ed è consultabi
 Può inolte essere scaricato per vari formati (PDF, EPUB e MOBI).
 
 <h3>
-__Ravinder Pal Singh__
+__Ravinder Pal SINGH__
 
-__5IA__ - anno scolastico __2014/15__
+__5IA__ - Anno scolastico __2014/15__
 
 __IIS G.Galilei Crema__
 
