@@ -4,7 +4,7 @@
 
 _Bitcoin_ - con la maiuscola, è usata quando si descrive il concetto di Bitcoin, il __protocollo__ o l'intero network stesso. Per esempio "Oggi stavo studiando il protocollo Bitcoin."
 
-_bitcoin_ - senza maiuscola, è usata per descrivere i bitcoin come un'__unità di conto__. Per esempio "Ti ho mandato dieci bitcoin oggi."; inoltre, è spesso abbreviato in BTC o XBT.
+_bitcoin_ - senza maiuscola, è usata per descrivere i bitcoin come un'__unità di conto__. Per esempio "Ti ho mandato dieci bitcoin oggi.".
 
 ###Blocco
 
@@ -16,7 +16,7 @@ La block chain è un __registro pubblico delle transazioni Bitcoin in ordine cro
 
 ###BTC
 
-Il BTC(o XTC) è un'unità comune utilizzata per designare un bitcoin.
+Il BTC (o XTC) è un'unità comune utilizzata per designare un bitcoin.
 
 ###Chiave Privata
 

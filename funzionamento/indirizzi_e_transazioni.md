@@ -13,12 +13,16 @@ __I bitcoin contengono la chiave pubblica del loro proprietario__ (cioè l'indir
 
 Per impedire la possibilità di utilizzare più volte la stessa moneta, la rete implementa quella che Satoshi Nakamoto descrive come un _server di marcatura oraria peer-to-peer_, che assegna identificatori sequenziali ad ognuna delle transazioni che vengono poi rafforzate nei confronti di tentativi di modifica usando l'idea di una catena di proof-of-work (mostrate in Bitcoin come _conferme_).
 Ogni volta che viene effettuata una transazione, essa parte nello stato di "non confermata"; diventerà "confermata" solo quando riconosciuta valida dagli altri nodi della rete e aggiunta alla block chain.
+
+
 In particolare, __ogni nodo raccoglie__ tutte le __transazioni non confermate__ che conosce __in un _blocco_ __ candidato, un file che, tra le altre cose, contiene un hash crittografico del precedente blocco valido conosciuto a quel nodo. __Prova poi a riprodurre un hash di quel blocco__ con determinate caratteristiche, uno sforzo che richiede in media una quantità definibile di prove da dover effettuare. __Quando un nodo trova tale soluzione la annuncia al resto della rete__ e i peer che ricevono il blocco ne controllano la validità prima di accettarlo e poi aggiungerlo alla catena.
+Quando una transazione viene ammessa per la prima volta in un blocco, riceve una conferma. Ogni volta che al di sopra di quel blocco vengono creati altri blocchi figli ad esso collegato, riceve un'altra conferma.
 
 ![blockchain](http://www.bitcoinsecurity.org/wp-content/uploads/2012/07/block-chain.png)
 
-Quando una transazione viene ammessa per la prima volta in un blocco, riceve una conferma. Ogni volta che al di sopra di quel blocco vengono creati altri blocchi figli ad esso collegato, riceve un'altra conferma.
 La motivazione dietro a questa procedura è che ad ogni conferma della transazione, ovvero ad ogni nuovo blocco che viene creato al di sopra del blocco con la transazione stessa, risulta via via più difficile e costoso annullare la transazione. Un ipotetico attaccante, per annullare una transazione con un certo numero di conferme, dovrebbe generare una catena parallela senza la transazione che desidera annullare e composta da un numero di blocchi pari o superiore alle conferme ricevute dalla transazione.
+
 Ne consegue che __la catena dei blocchi contiene lo storico di tutti i movimenti di tutti i bitcoin generati a partire dall'indirizzo del loro creatore fino all'attuale proprietario__. Quindi, se un utente prova a riutilizzare una moneta che ha già speso, la rete rifiuterà la transazione in quanto la somma risulterà già essere spesa.
+
 Nakamoto ha progettato il sistema in modo che, nonostante il database aumenti di dimensioni nel tempo, sia possibile averne una versione ridotta che riguardi nel dettaglio solo alcune transazioni, ma che rimanga completamente verificabile in modo indipendente. Ad esempio, per un utente privato potrebbe essere interessante avere la catena dei blocchi con le sole transazioni che lo riguardano. Oppure, potrebbe essere desiderabile ripulire dal database tutte le transazioni le cui somme in uscita sono già state utilizzate in altre transazioni, diminuendone di molto le dimensioni.
 
