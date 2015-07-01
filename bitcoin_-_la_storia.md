@@ -32,3 +32,10 @@ Nel gennaio del 2009, l'invenzione di Nakamoto fu rilasciata come software __ope
 - Il 9 dicembre dai conti degli utenti Bitcoin vengono rubati 100 milioni di dollari.
 - In dicembre la Cina proibisce l’utilizzo di criptovaluta sul territorio nazionale. Viene chiuso BTC China, uno dei più grandi mercati al mondo. Su esempio della Cina, anche la Norvegia non riconosce il bitcoin.
 
+####Giugno 2015
+- Sono presenti circa 14 milioni di Bitcoin in cirolazione.
+- Il tasso di cambio è:    1 BTC = € 238 = $ 264.
+
+
+![Price chart](http://s6.postimg.org/fromfwe8x/coindesk_bpi_chart.png)
+
