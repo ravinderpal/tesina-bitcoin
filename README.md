@@ -1,23 +1,14 @@
 # Introduzione
 
-> __Bitcoin: una moneta elettronica peer-to-peer decentralizzata. Prima forma di criptovaluta.__
+> **Bitcoin: una moneta elettronica peer-to-peer decentralizzata. Prima forma di criptovaluta.**
 
 Che cosa significa?
 
-<h5 style="text-align: justify; font-style: italic">
-Molti di voi avranno sentito almeno una volta nella vita il termine Bitcoin, ma senza forse capire che cosa sia o come funzioni realmente.
-Questo documento intende informare le persone riguardo a questa nuova forma di valuta che si sta diffondendo sempre di più in tutto il mondo. Lo scopo non è diventare degli esperti di Bitcoin ma capire di cosa si tratta, come sia nata questa tecnologia, su quali principi si basa, quali sono i vantaggi (e gli svantaggi) e come iniziare ad utilizzarla.
-</h5>
-Questo documento è stato creato tramite [Gitbook](gitbook.com) ed è consultabile online all'indirizzo:  [http://ravinderpal.gitbooks.io/tesina-bitcoin](http://ravinderpal.gitbooks.io/tesina-bitcoin).
-Può inolte essere scaricato per vari formati (PDF, EPUB e MOBI).
+ Molti di voi avranno sentito almeno una volta nella vita il termine Bitcoin, ma senza forse capire che cosa sia o come funzioni realmente. Questo documento intende informare le persone riguardo a questa nuova forma di valuta che si sta diffondendo sempre di più in tutto il mondo. Lo scopo non è diventare degli esperti di Bitcoin ma capire di cosa si tratta, come sia nata questa tecnologia, su quali principi si basa, quali sono i vantaggi \(e gli svantaggi\) e come iniziare ad utilizzarla. Questo documento è stato creato tramite [Gitbook](https://github.com/ravinderpal/tesina-bitcoin/tree/08a11a15a4bda76c9ed6b2ff433f57c4472ac91c/gitbook.com) ed è consultabile online all'indirizzo: [http://ravinderpal.gitbooks.io/tesina-bitcoin](http://ravinderpal.gitbooks.io/tesina-bitcoin). Può inolte essere scaricato per vari formati \(PDF, EPUB e MOBI\).
 
-<h3>
-__Ravinder Pal SINGH__
+ **Ravinder Pal SINGH**
 
-__5IA__ - Anno scolastico __2014/15__
+**5IA** - Anno scolastico **2014/15**
 
-__IIS G.Galilei Crema__
-
-<h3>
-
+**IIS G.Galilei Crema**
 
